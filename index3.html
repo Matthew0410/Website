@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Belajar CSS 3</title>
+  <meta charset="utf-8">
+  <style type="text/css">
+
+    body :not(h1) {
+      color: red;
+    }
+
+    p:first-child {
+      color: blue;
+    }
+
+    p:last-child{
+      font-size: 20px;
+    }
+
+    p:only-child{
+      background: yellow;
+    }
+
+    /* ul :nth-child(2){
+      text-decoration: line-through;
+    } */
+
+    ul :nth-child(odd){ /*untuk memilih urutan yg ganjil*/
+      text-decoration: line-through;
+    }
+
+    ul :nth-child(even){ /*untuk memilih urutan yg genap*/
+      text-decoration: underline;
+    }
+
+    ul :nth-child(3n+0){
+      background: aqua;
+    }
+
+    ul :nth-child(2n+0){
+      text-decoration: overline;
+    }
+
+    input:checked{
+      width: 50px;
+    }
+
+    /* enebled, disabled & invalid */
+    input:enabled{
+      border: 2px solid blue;
+    }
+
+    input:disabled{
+      border: 2px solid red;;
+    }
+
+    input:invalid{
+      background: red;
+      color: white;
+    }
+
+  </style>
+</head>
+<body>
+
+  <h1>Selector - Pseudo Classes</h1>
+
+  <div>
+    <span>Span Pertama</span>
+    <p>Paragraph Pertama</p>
+  </div>
+
+  <div>
+    <p>Paragraph Pertama</p>
+    <p>Paragraph Kedua</p>
+    <p>Paragraph Ketiga</p>
+  </div>
+
+  <div>
+    <p>Paragraph Pertama</p>
+    <p>Paragraph Kedua</p>
+    <p>Paragraph Ketiga</p>
+  </div>
+
+  <h1>nth Child</h1>
+  <ul>
+    <li>List Pertama</li>
+    <li>List Kedua</li>
+    <li>List Ketiga</li>
+    <li>List Keempat</li>
+    <li>List Kelima</li>
+    <li>List Keenam</li>
+    <li>List Ketujuh</li>
+    <li>List Kedelapan</li>
+    <li>List Kesembilan</li>
+    <li>List Kesepuluh</li>
+    <li>List Kesebelas</li>
+    <li>List Kedua belas</li>
+    <li>List Ketiga belas</li>
+  </ul>
+
+  <h1>Input</h1>
+  <input type="checkbox">Female
+  <input type="checkbox" checked>Male
+  <br><br>
+
+  <input type="text" placeholder="Nama Lengkap">
+  <input type="text" placeholder="Nama Pendek">
+  <input type="text" placeholder="Kota Asal" disabled>
+  <input type="email" placeholder="Email">
+
+  <br><br><br><br>
+  SekolahKoding
+</body>
+</html>

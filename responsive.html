@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Belajar Membuat Website Responsive</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <style type="text/css">
+
+    /* Biasakan menggunakan %persen agar lebih mudah membuat web Responsive */
+
+    /* Ukuran Font-Size Normal Pada Paragraf Yaitu 12px */
+
+    *{
+      margin: 0;
+      padding: 0;
+    }
+
+    #header {
+      background-color: #aaa;
+      height: 100px;
+      width: 1500px;
+      max-width:100%;
+    }
+
+    #main {
+      background-color: #c55252;
+      height: 500px;
+      width: 80%;
+      float: left;
+    }
+
+    #sidebar {
+      background-color: #188888;
+      height: 500px;
+      width: 20%;
+      float: left;
+    }
+
+    body {
+      font-size: 15px; /*---> 1em = 15px*/
+    }
+
+    #footer {
+      background-color: #36eab1;
+      height: 40px;
+      width:100%;
+      clear: both;
+    }
+
+    .col-4 {
+      width: 23%;
+      margin: 1%;
+      height: 200px;
+      background: green;
+      float: left;
+      font-size: 2em;
+    }
+
+    h1 {
+      font-size: 2.5em;
+    }
+
+    @media screen and (max-width:1000px) {
+
+      body {
+        font-size: 12px;
+      }
+
+      .col-4 {
+        width: 48%;
+      }
+
+    }
+
+    @media screen  and (max-width:760px){
+
+      body {
+        font-size: 9px;
+      }
+
+      .col-4 {
+        width: 96%;
+        margin: 2%;
+      }
+
+      #main {
+        height: auto;
+      }
+
+      #sidebar, #main {
+        width: 100%;
+      }
+
+    }
+
+  </style>
+<body>
+
+  <div id="header">
+    <h1> Judul </h1>
+  </div>
+
+  <div id="main">
+
+    <div class="col-4"> TEXT DI SINI </div>
+    <div class="col-4"> TEXT DI SINI </div>
+    <div class="col-4"> TEXT DI SINI </div>
+    <div class="col-4"> TEXT DI SINI </div>
+
+  </div>
+
+  <div id="sidebar"></div>
+
+  <div id="footer">copyright 2018</div>
+
+</body>
+</html>

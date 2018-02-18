@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"scale",
+				"scaleZ()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"per",
+				"perspective-origin"
+			],
+			[
+				"tras",
+				"translateZ()"
+			],
+			[
+				"pere",
+				"perspective-origin"
+			],
+			[
+				"rota",
+				"rotateX()"
+			],
+			[
+				"tranfor",
+				"transform"
+			],
+			[
+				"ro",
+				"rotateX()"
+			],
+			[
+				"tra",
+				"translateZ()"
+			],
+			[
+				"trasf",
+				"transform"
+			],
+			[
+				"pe",
+				"perspective"
+			],
+			[
+				"traf",
+				"transform"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"e",
+				"ease-out"
+			],
+			[
+				"pi",
+				"pilihan1"
+			],
+			[
+				"i",
+				"ipa"
+			],
+			[
+				"bi",
+				"bing"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ske",
+				"skew()"
+			],
+			[
+				"sk",
+				"skewY()"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"ni",
+				"nilaibing"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"a",
+				"abbr\tTag"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"is-s",
+				"is-size-6"
+			],
+			[
+				"is",
+				"is-size-5"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"text-al",
+				"text-align"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"Mu",
+				"Mulai"
+			],
+			[
+				"bo",
+				"button\tTag"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wo",
+				"word-wrap"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mathius/Documents/ppdb.py",
+		"/home/mathius/Documents/index1.html",
+		"/home/mathius/Documents/index.html",
+		"/home/mathius/Documents/index.py",
+		"/home/mathius/Documents/mmms.py",
+		"/home/mathius/Documents/ap.py",
+		"/home/mathius/Documents/index3.html",
+		"/home/mathius/Documents/index2.html",
+		"/home/mathius/Documents/id/CNAME",
+		"/home/mathius/Documents/id/assets/link/ambition.html",
+		"/home/mathius/Documents/id/assets/link/school.html",
+		"/home/mathius/Documents/id/assets/link/profile.html",
+		"/home/mathius/Documents/id/assets/link/info.html",
+		"/home/mathius/Documents/id/assets/link/RollModel.html",
+		"/home/mathius/Documents/id/index.html",
+		"/home/mathius/Documents/id/assets/css/bulma.css",
+		"/home/mathius/Documents/id/assets/link/RolModel.html",
+		"/home/mathius/Documents/id/assets/css/style.css",
+		"/home/mathius/Documents/id/assets/link/rollmodel.html",
+		"/home/mathius/Documents/id/assets/link/n;vna.html",
+		"/home/mathius/Documents/Matt/assets/css/blog.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"\"><",
+			"img",
+			"is-margi",
+			"line",
+			"html",
+			"tabs",
+			"is-inverted",
+			"button",
+			"is-primary",
+			"background-image",
+			"is-right ",
+			"is-right",
+			"subtitle",
+			"color",
+			".subtitle",
+			"ul",
+			"li",
+			".is-active",
+			".padding",
+			"padding",
+			"is-right",
+			"padding",
+			"ul"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
